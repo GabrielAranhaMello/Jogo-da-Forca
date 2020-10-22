@@ -20,6 +20,8 @@ elif digt_or_pre == 2:
 
     palavra = biblioteca[randint(0, len(biblioteca))]
     
+    palavra = palavra.upper()
+    
 palavra.upper()
 
 
